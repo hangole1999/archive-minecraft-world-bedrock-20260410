@@ -1,0 +1,15 @@
+﻿allowlist.json
+permissions.json
+bedrock_server.exe
+bedrock_server.exe.bak
+./bedrock_server.exe
+./bedrock_server.exe.bak
+/*.zip
+/*.7z
+*.log
+*.log.gz
+logs/
+crash-reports/
+.console_history
+server.properties.local-backup
+.gitignore copy
